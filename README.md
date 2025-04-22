@@ -5,7 +5,7 @@ I presented my thesis in the form of an oral presentation at the 22nd Swiss Geos
 I will also present a poster of my thesis at the European Geosciences Union General Assembly 2025, 27 April - 02 May 2025, Vienna, Austria.
 To see the slides of my oral presentation and the poster visit https://www.bernese.unibe.ch/publist/publist.php (the poster is coming soon).
 
-Since the completion of my thesis I have altered the code in a way that better results are produced. The efficiency has also been improved significantly. However, The files are still chaotic but more organised files and instruction manuals will be uploaded in the future. If you are interested in using the code as soon as possible you can contact me per E-Mail (address below). Please make sure to also reference my thesis in this case.
+Since the completion of my thesis I have altered the code in a way to produce better results (I still have the old code used for my thesis). The efficiency has also been improved significantly. However, The files are still chaotic but more organised files and instruction manuals will be uploaded in the future. If you are interested in using the code as soon as possible you can contact me per E-Mail (address below). Please make sure to also reference my thesis in this case.
 The files that contain the essential code are:
   "functions.py" and "functions2.py" - contain definitions of essential functions
   "main.py" - script to produce results
