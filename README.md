@@ -1,8 +1,14 @@
-ISWEOLEOS stands for the title of my Bachelorthesis:
-Impact of Space Weather Events on the Orbit of Low Earth Orbiting Satellites
+ISWEOLEOS stands for the title of my Bachelorthesis: Impact of Space Weather Events on the Orbit of Low Earth Orbiting Satellites.
+The thesis is as the file "Bachelorthesis_LWalter.pdf" already uploaded to this repository (to read it one has to download the file).
 
-Files are chaotic and will be sorted out in the future.
-Important are the following files:
-  "functions.py"
-  "integration GFOC18.py"
-  "integration SAT new.py"
+I presented my thesis in the form of an oral presentation at the 22nd Swiss Geoscience Meeting 2024, 8-9 November 2024, Basel, Switzerland.
+I will also present a poster of my thesis at the European Geosciences Union General Assembly 2025, 27 April - 02 May 2025, Vienna, Austria.
+To see the slides of my oral presentation and the poster visit https://www.bernese.unibe.ch/publist/publist.php (the poster is coming soon).
+
+Since the completion of my thesis I have altered the code in a way that better results are produced. The efficiency has also been improved significantly. However, The files are still chaotic but more organised files and instruction manuals will be uploaded in the future. If you are interested in using the code as soon as possible you can contact me per E-Mail (address below). Please make sure to also reference my thesis in this case.
+The files that contain the essential code are:
+  "functions.py" and "functions2.py" - contain definitions of essential functions
+  "main.py" - script to produce results
+  "data_simulation.py" - script to test the fit model in a simulation
+
+For questions please contact me per Mail: levin.walter@students.unibe.ch
