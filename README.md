@@ -7,8 +7,8 @@ To see the slides of my oral presentation and the poster visit https://www.berne
 
 Since the completion of my thesis I have altered the code in a way to produce better results (I still have the old code used for my thesis). The efficiency has also been improved significantly. However, The files are still chaotic but more organised files and instruction manuals will be uploaded in the future. If you are interested in using the code as soon as possible you can contact me per E-Mail (address below). Please make sure to also reference my thesis in this case.
 The files that contain the essential code are:
-  "functions.py" and "functions2.py" - contain definitions of essential functions
-  "main.py" - script to produce results
-  "data_simulation.py" - script to test the fit model in a simulation
+"functions.py" and "functions2.py" - contain definitions of essential functions
+"main.py" - script to produce results
+"data_simulation.py" - script to test the fit model in a simulation
 
 For questions please contact me per Mail: levin.walter@students.unibe.ch
